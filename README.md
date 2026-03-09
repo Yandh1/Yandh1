@@ -2,25 +2,6 @@
 
 🚀 Backend Developer | Co-Founder @ BajaSource  
 🧠 Systems Builder | Automation | AI-assisted development  
-🌎 Based in La Paz, Baja California Sur, Mexico
-
----
-
-## 🧑‍💻 About Me
-
-I'm a backend-focused developer who enjoys building **scalable systems, internal tools, and automation platforms**.
-
-I specialize in designing **structured architectures**, **APIs**, and **data-driven applications** that support real-world operations.
-
-I'm currently building tools that combine:
-
-- CRM systems
-- Mini ERP platforms
-- Scientific evaluation systems
-- Business automation
-- Internal dashboards
-
-My work focuses on **speed, scalability, and developer efficiency** using modern TypeScript ecosystems.
 
 ---
 
@@ -28,8 +9,6 @@ My work focuses on **speed, scalability, and developer efficiency** using modern
 
 ### 🏢 BajaSource
 Co-Founder & Developer
-
-We build **custom software solutions and digital systems for businesses**.
 
 Currently developing:
 
@@ -45,31 +24,6 @@ Currently developing:
 - Judge assignments
 - Automated scoring
 - Reporting
-
----
-
-# 🧠 What I'm Currently Building
-
-### BajaSource Dashboard
-
-Stack:
-
-Next.js  
-NestJS  
-Neon Postgres  
-Drizzle ORM  
-Auth.js  
-
-Modules:
-
-- CRM
-- Leads management
-- Projects
-- Deals
-- Quotations generator
-- Invoice generator
-- Tasks
-- Reports
 
 ---
 
@@ -129,48 +83,6 @@ Modules:
 
 ---
 
-# 🤖 AI Assisted Development
-
-I use modern AI coding tools to accelerate development and prototyping.
-
-Tools I work with:
-
-- Claude
-- Gemini
-- ChatGPT
-- Antigravity
-
-Focus:
-
-• AI-assisted architecture  
-• Prompt engineering for development  
-• Rapid prototyping systems
-
----
-
 # 📊 GitHub Stats
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelVillaBernal&show_icons=true&theme=tokyonight)
-
----
-
-# 🔥 Current Interests
-
-- Backend architecture
-- Internal tools
-- Developer automation
-- AI-assisted coding
-- Business systems
-- Data-driven platforms
-
----
-
-# 📫 Contact
-
-If you're interested in working together or building something interesting:
-
-📧 Reach out through GitHub.
-
----
-
-⭐ *Always building systems that solve real problems.*
