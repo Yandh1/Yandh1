@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rafael (Raf)
+# 👋 Hi, I'm Raf
 
 🚀 Backend Developer | Co-Founder @ BajaSource  
 🧠 Systems Builder | Automation | AI-assisted development  
