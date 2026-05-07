@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raf
 
 🚀 Backend Developer | Co-Founder @ BajaSource  
-🧠 Systems Builder | Automation | AI-assisted development  
+🧠 Systems Builder | Automation | Spec-driven development  
 
 ---
 
