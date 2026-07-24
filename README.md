@@ -1,29 +1,28 @@
-# 👋 Hi, I'm Raf
+# Hi, I'm Raf
 
-🚀 Backend Developer | Co-Founder @ BajaSource  
-🧠 Systems Builder | Automation | Spec-driven development  
+Backend Developer | Co-Founder @ BajaSource  
+Systems Builder | Automation | META Ads
 
 ---
 
-# 🚀 Current Work
+# Current Work
 
-### 🏢 BajaSource
+### BajaSource
 Co-Founder & Developer
 
 Currently developing:
-
-• **BajaSource Dashboard**
-- CRM
-- Mini-ERP
-- Task management
-- Deal tracking
-- Quotations & invoices
 
 • **Science Fair Evaluation System**
 - Questionnaires
 - Judge assignments
 - Automated scoring
 - Reporting
+
+• **Billiard Management System**
+- Tables & sessions
+- Inventory management
+- RBAC 
+- Finance operations
 
 ---
 
