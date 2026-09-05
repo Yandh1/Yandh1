@@ -1,32 +1,60 @@
-# Hi, I'm Raf
+# Rafael
 
-Backend Developer | Co-Founder @ BajaSource  
-Systems Builder | Automation | META Ads
+Backend engineer focused on building systems where software, operations, data, and infrastructure meet.
 
----
+Most of my work lives somewhere between product engineering and systems design: multi-tenant platforms, internal tooling, operational software, data-heavy backends, and products that eventually need to survive contact with real users.
 
-# Current Work
+I co-founded **BajaSource**, where most active work is developed privately.
+
+Public repositories usually contain experiments, selected components, architecture studies, or systems that can be shown without exposing the machinery behind them.
+
+## Systems in Motion
 
 ### BajaSource
-Co-Founder & Developer
 
-Currently developing:
+A small software operation used to build and maintain internal systems, client platforms, and independent products.
 
-• **Science Fair Evaluation System**
-- Questionnaires
-- Judge assignments
-- Automated scoring
-- Reporting
-
-• **Billiard Management System**
-- Tables & sessions
-- Inventory management
-- RBAC 
-- Finance operations
+The interesting parts are not public.
 
 ---
 
-# 🛠 Tech Stack
+### SoftVet
+
+A modular, multi-tenant operational system for veterinary organizations.
+
+Designed around separated organizational domains, interconnected workflows, clinical records, scheduling, financial operations, permissions, and long-term system growth.
+
+---
+
+### Tablo
+
+An experiment in turning database definitions into explorable structure.
+
+PostgreSQL first.
+
+The objective is not simply to draw tables.
+
+---
+
+### Evaluation Infrastructure
+
+A system designed around controlled assignment, structured evaluation, traceability, and event operations.
+
+Built for an environment where the software has to coordinate people, rooms, projects, timing, and incomplete information simultaneously.
+
+---
+
+## Current Direction
+
+Distributed application architecture.
+
+Multi-tenancy.
+
+Infrastructure that can be reproduced.
+
+Systems that remain understandable after they grow.
+
+# Main Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
