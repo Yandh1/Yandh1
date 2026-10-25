@@ -26,24 +26,6 @@ Designed around separated organizational domains, interconnected workflows, clin
 
 ---
 
-### Tablo
-
-An experiment in turning database definitions into explorable structure.
-
-PostgreSQL first.
-
-The objective is not simply to draw tables.
-
----
-
-### Evaluation Infrastructure
-
-A system designed around controlled assignment, structured evaluation, traceability, and event operations.
-
-Built for an environment where the software has to coordinate people, rooms, projects, timing, and incomplete information simultaneously.
-
----
-
 ## Current Direction
 
 Distributed application architecture.
