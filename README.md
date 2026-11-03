@@ -12,7 +12,7 @@ Public repositories usually contain experiments, selected components, architectu
 
 ### BajaSource
 
-A small software operation used to build and maintain internal systems, client platforms, and independent products.
+A software development operation used to build and maintain internal systems, client platforms, and cloud infrastructure.
 
 The interesting parts are not public.
 
