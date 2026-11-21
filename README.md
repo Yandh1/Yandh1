@@ -73,33 +73,17 @@ Separated organizational domains, interconnected workflows, clinical records, sc
 
 **Language**
 
-<img src="https://skillicons.dev/icons?i=ts,js&theme=dark" alt="TypeScript, JavaScript" />
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs&theme=dark" alt="NestJS, Node.js" />
+<img src="https://skillicons.dev/icons?i=nestjs,laravel&theme=dark" alt="NestJS, Laravel" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Next.js, React, Tailwind" />
-
-**Data**
-
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=nextjs,astro,figma&theme=dark" alt="Next.js, Astro, Figma" />
 
 </div>
-
-<details>
-<summary><sub>badge version</sub></summary>
-<br/>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</details>
 
 ---
 
@@ -107,10 +91,10 @@ Separated organizational domains, interconnected workflows, clinical records, sc
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=06b6d4&icon_color=3b82f6&hide=issues,contribs" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=06b6d4" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yandh1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=06b6d4&icon_color=3b82f6&hide=issues,contribs" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yandh1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=06b6d4" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0b0f19&ring=06b6d4&fire=3b82f6&currStreakLabel=06b6d4" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yandh1&theme=tokyonight&hide_border=true&background=0b0f19&ring=06b6d4&fire=3b82f6&currStreakLabel=06b6d4" alt="Streak" />
 
 <sub>Public activity only. Most of the work happens behind closed doors.</sub>
 
