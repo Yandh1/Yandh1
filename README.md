@@ -4,7 +4,7 @@
 
 <br/>
 
-*Strength is a structure.*
+*Hold the line.*
 
 <img src="./assets/meander.svg" alt="" width="100%" />
 
@@ -16,7 +16,7 @@
 
 Full-stack. The whole path, from the schema to the interface to the ground it stands on.
 
-Multi-tenant platforms. Operational software. Things built to be leaned on.
+Multi-tenant platforms. Operational software. Built to take the hit.
 
 Most of it is walled off. What stands outside is a study, a fragment, a proof.
 
@@ -71,12 +71,12 @@ Distributed architecture. Reproducible infrastructure.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nestjs,laravel,nextjs,astro,figma,arch&theme=dark" alt="TypeScript, NestJS, Laravel, Next.js, Astro, Figma, Arch Linux" />
+<img src="https://skillicons.dev/icons?i=ts,nestjs,laravel,nextjs,astro,figma&theme=dark" alt="TypeScript, NestJS, Laravel, Next.js, Astro, Figma" />
 
 <br/><br/>
 
 <img src="./assets/meander.svg" alt="" width="100%" />
 
-<sub>力 &nbsp;·&nbsp; 美</sub>
+<sub>ΑΡΗΣ</sub>
 
 </div>
