@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 22" width="1200" height="22" role="presentation">
+  <defs>
+    <pattern id="key" width="30" height="22" patternUnits="userSpaceOnUse">
+      <path d="M0 19 H30 M4 19 V3 H26 V14 H11 V8 H20" fill="none" stroke="#b8975a" stroke-width="1.6" stroke-linejoin="miter"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="22" fill="url(#key)" opacity="0.85"/>
+</svg>
